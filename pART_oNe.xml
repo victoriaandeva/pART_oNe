@@ -152,7 +152,4 @@
       </block>
     </next>
   </block>
-  <block type="variables_set" id="10" inline="true" x="-130" y="-60">
-    <field name="VAR">Distance</field>
-  </block>
 </xml>
